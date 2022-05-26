@@ -1,1 +1,1 @@
-Source code for Concealed Gun webpage: [https://peckkie.github.io/Concealed_Gun_webpage/](https://peckkie.github.io/Concealed_Gun_webpage/).
+Source code for AI for Gold NanoX webpage: [ https://lapatradaa.github.io/AI-for-Gold-NanoX-Webpage/](https://lapatradaa.github.io/AI-for-Gold-NanoX-Webpage/).
